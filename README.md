@@ -60,7 +60,7 @@ npm run dev
 
 ---
 
-## 📦 API do Projeto
+📦 API do Projeto
 
-🔗 **Link do repositório da API:**  
+🔗Link do repositório da API
 [SantannaEduarda/API-Material-de-Estudos](https://github.com/SantannaEduarda/API-Material-de-Estudos)
